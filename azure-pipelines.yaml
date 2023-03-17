@@ -1,7 +1,7 @@
 variables:
   - group: ADO-TF-AWS-VPC-Int
   - name: region
-    value: 'us-east-2'
+    value: 'us-east-1'
   - name: CommaSeparatedListofWorkspaces
     value: "default, Dev, Test, Prod"
   
@@ -11,6 +11,7 @@ trigger:
     - main
     exclude:
       - README.md
+      - azure-pipelines.yaml
   
 stages:
   - stage: Validate
