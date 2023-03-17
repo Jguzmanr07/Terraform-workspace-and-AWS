@@ -16,9 +16,9 @@ variable "vpc_address_space" {
 variable "provider_env_roles" {
   type = map(any)
   default = {
-    "Dev"  = "arn:aws:iam::851242103510:role/RoleToBeAssumed"
-    "Test" = "arn:aws:iam::597445274477:role/RoleToBeAssumed"
-    "Prod" = "arn:aws:iam::501461340471:role/RoleToBeAssumed"
+    "Dev"  = "arn:aws:iam::669487844008:role/RoleToBeAssumed"
+    "Test" = "arn:aws:iam::669487844008:role/RoleToBeAssumed"
+    "Prod" = "arn:aws:iam::669487844008:role/RoleToBeAssumed"
   }
 }
 variable "subnet_address_space" {
