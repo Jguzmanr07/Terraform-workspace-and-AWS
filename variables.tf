@@ -2,7 +2,7 @@
 variable "region" {
   description = "Infrastructure region"
   type        = string
-  default     = "us-east-2"
+  default     = "us-east-1"
 }
 #Define VPC Address Space
 variable "vpc_address_space" {
