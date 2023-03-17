@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/jguzmanr/0ca1415b-b348-4982-b6cf-aeb89e6fd6b1/7fa020df-3c3d-49e6-b4de-8d6bbcdf25d0/_apis/work/boardbadge/a597ede6-2496-41e0-a7bb-7ea29239361d)](https://dev.azure.com/jguzmanr/0ca1415b-b348-4982-b6cf-aeb89e6fd6b1/_boards/board/t/7fa020df-3c3d-49e6-b4de-8d6bbcdf25d0/Microsoft.RequirementCategory)
 [![Build Status](https://littlecoding.visualstudio.com/Open-Project/_apis/build/status/kunduso.Working-with-Terraform-workspace-and-AWS?branchName=main)](https://littlecoding.visualstudio.com/Open-Project/_build/latest?definitionId=22&branchName=main)
 ![Image](https://skdevops.files.wordpress.com/2021/07/44.-image-1.png)
 # Working with Terraform workspace, Powershell and Azure Pipelines to provision AWS VPC
